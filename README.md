@@ -1,6 +1,6 @@
 # Omarchy
 
-Experiments with the Omarchy Linux distro.
+Abandonded due to a lack of accessibility settings, it shouldn't be hard to configure the font size so it's actually readable? 🤷
 
 ## try-omarchy-windows
 
@@ -23,9 +23,3 @@ These are probably the commands you need, "super" is the Windows key.
 |Super + C|Copy|
 |Super + X|Cut|
 |Super + V|Paste|
-
-### Default font size is impossible to read
-
-These instructions didn't work for me, I'll try and find something which does work or figure it out myself.
-
-<https://gist.github.com/tommy2118/146c1476c28127ca7533883da69c0818>
